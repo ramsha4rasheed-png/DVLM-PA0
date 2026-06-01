@@ -45,12 +45,4 @@ A foundational hands-on warm-up covering essential practices in deep vision, rep
 
 
 
----
 
-## Setup & Submission Requirements
-
-* **Report Format:** Documented in full ICML format.
-
-
-* **Code Execution:** PyTorch, `torchvision`, `timm`, `transformers`, `scipy`, and `scikit-learn`.# DVLM-PA0
-Analysis on internal mechanism of ResNet-152, Vit, VAEs and CLIP
